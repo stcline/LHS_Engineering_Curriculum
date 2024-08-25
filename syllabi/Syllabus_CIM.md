@@ -26,6 +26,7 @@ The Computer Integrated Manufacturing (CIM) course is part of the Project Lead T
 2. **Manufacturing Processes (30%)**
    - Analyze and improve product designs for manufacturability.
    - Develop machine language (G&M code) for CNC devices.
+   - Create physical parts using FDM printers including material selection and settings.
    - Operate a CNC mill to create a physical part from a digital design.
 
 3. **Elements of Automation (26%)**
@@ -65,7 +66,7 @@ The Computer Integrated Manufacturing (CIM) course is part of the Project Lead T
 ### **Policies**
 
 **Late Work Policy:**  
-Assignments missed due to excused or unexcused absences can be completed without penalty within ten school days of the student's return. If the absence occurs within ten days of the semester's end, students have until the last day of the semester to submit work. Late work due to reasons other than absence will be accepted until the end of the current quarter.
+Assignments missed due to excused or unexcused absences can be completed without penalty within ten school days of the student's return. If the absence occurs within ten days of the semester's end, students have until the last day of the semester to submit work. Late work due to reasons other than absence will be accepted until the end of the current quarter. All accepted late work will receive a 50% penalty.
 
 **Cell Phone Policy:**  
 All cell phones must be stored at the front of the classroom in the designated phone caddy unless prior arrangements have been made with the teacher. Phones may be retrieved with one minute remaining in class.
@@ -75,6 +76,14 @@ Students must pass a safety test before using any lab equipment.
 
 ### **Assessment and Grading**
 
+**Grading Scale:**
+- **A - 90-100%**
+- **B - 80-89.99%**
+- **C - 70-79.99%**
+- **D - 60-69.99%**
+- **F - below 60%**
+
+**Grading Categories:**
 - **Projects and Assignments:** 50%
 - **Quizzes and Tests:** 30%
 - **Participation and Collaboration:** 20%
