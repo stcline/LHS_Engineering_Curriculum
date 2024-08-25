@@ -1,5 +1,3 @@
-Based on the information provided in the attached documents, here is a revised syllabus for the Computer Integrated Manufacturing (CIM) course:
-
 ## Syllabus for Computer Integrated Manufacturing (CIM)
 
 **Instructor:**  
