@@ -9,4 +9,4 @@
 **- Period 4: PLTW Design and Development**
 **- Period 6: PLTW Computer Integrated Manufacturing**
  
-You can find a quick weekly outline [here](https://docs.google.com/spreadsheets/d/1h_2pHMBuIdFInEyp0-gyB3FT5ts5SWf-Xw89x5vXMPo/pubhtml) for all PLTW Engineering courses as well as more detailed lessons by course.
+You can find a quick weekly outline [here](https://docs.google.com/spreadsheets/d/1h_2pHMBuIdFInEyp0-gyB3FT5ts5SWf-Xw89x5vXMPo/pubhtml) for all PLTW Engineering courses as well as more detailed lessons by course.  The files above are for the current week.
