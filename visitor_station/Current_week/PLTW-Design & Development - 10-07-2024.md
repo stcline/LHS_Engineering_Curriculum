@@ -1,5 +1,6 @@
 ## Tuesday: Electronics Unit Exam
 
+- **Objective**: Demonstrate understanding of electronic components through assessment (Bloom's Level: Understand)
 - **Warm-up**: Review key concepts from the electronics unit with a group discussion.
 - **Instruction**:
   - *Lecture*: Recap major topics covered in the electronics unit.

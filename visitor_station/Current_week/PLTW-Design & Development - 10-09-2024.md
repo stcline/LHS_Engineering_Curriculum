@@ -1,5 +1,6 @@
 ## Thursday: Alternative Energy Car - Fuel Cells
 
+- **Objective**: Analyze the use of fuel cells as an alternative energy source for vehicles (Bloom's Level: Analyze)
 - **Warm-up**: Discuss how fuel cells work and their potential benefits over traditional combustion engines.
 - **Instruction**:
   - *Lecture*: Overview of fuel cell technology used in vehicles.

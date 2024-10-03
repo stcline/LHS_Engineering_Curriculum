@@ -1,5 +1,6 @@
 ## Friday: Alternative Energy Car - Batteries
 
+- **Objective**: Evaluate the effectiveness of batteries as an alternative energy source for vehicles (Bloom's Level: Evaluate)
 - **Warm-up**: Discuss the role of batteries in modern electric vehicles and their environmental impact.
 - **Instruction**:
   - *Lecture*: Overview of battery technology used in vehicles.

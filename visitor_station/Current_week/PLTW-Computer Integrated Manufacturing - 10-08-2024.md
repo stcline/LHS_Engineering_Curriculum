@@ -1,5 +1,6 @@
 ## Wednesday: Flowcharts
 
+- **Objective**: Create flowcharts to visualize and organize manufacturing processes (Bloom's Level: Create)
 - **Warm-up**: Discuss how flowcharts can simplify complex processes in manufacturing.
 - **Instruction**:
   - *Lecture*: Introduction to flowchart symbols and their uses.

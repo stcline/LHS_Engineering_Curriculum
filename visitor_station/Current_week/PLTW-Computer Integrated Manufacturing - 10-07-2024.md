@@ -1,5 +1,6 @@
 ## Tuesday: Manufacturing Research Presentation
 
+- **Objective**: Evaluate and present research findings on manufacturing processes (Bloom's Level: Evaluate)
 - **Warm-up**: Discuss recent advancements in manufacturing technology as a class.
 - **Instruction**:
   - *Lecture*: Overview of key manufacturing processes.

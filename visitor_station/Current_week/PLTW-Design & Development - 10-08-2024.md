@@ -1,5 +1,6 @@
 ## Wednesday: Alternative Energy Car - Solar Panels
 
+- **Objective**: Apply knowledge of solar panels as an alternative energy source for vehicles (Bloom's Level: Apply)
 - **Warm-up**: Discuss the benefits and limitations of solar energy in transportation.
 - **Instruction**:
   - *Lecture*: Introduction to solar panel technology and its application in vehicles.
