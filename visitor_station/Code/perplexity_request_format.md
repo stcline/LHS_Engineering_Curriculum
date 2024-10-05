@@ -1,5 +1,7 @@
 ### Instructions for Generating Lesson Plans and Python Dictionary
 
+## Us the attached file to generate a lesson plan for each day of the week.
+
 1. **Upload the Schedule:**
    - Begin by uploading the weekly schedule file (e.g., "Weekly-Outline-Week-of-10_7.pdf") to Perplexity. <!---change the date-->
 
