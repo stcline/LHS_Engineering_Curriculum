@@ -1,10 +1,10 @@
-## Tuesday: Electronics Unit Exam
+## Monday: Review Unit Exam
 
-- **Objective**: Demonstrate understanding of electronic components through assessment (Bloom's Level: Understand)
+- **Objective**: Prepare students for electronics unit exam through review activities (Bloom's Level: Understand)
 - **Warm-up**: Review key concepts from the electronics unit with a group discussion.
 - **Instruction**:
   - *Lecture*: Recap major topics covered in the electronics unit.
   - *Hands-on Activity*: Exam preparation through practice questions.
-- **Activity**: Electronics Unit Exam: Students complete the exam individually.
+- **Activity**: Review session focusing on circuit analysis and electronic components.
 - **Reflection Question**: Which topic in this unit did you find most challenging, and why?
-- **CA CTE Standards**: CTE.EC.A.A1.1: Understand electronic systems and their applications in engineering contexts.
+- **Standards Addressed**: CTE.EC.A.A1.1: Understand electronic systems and their applications in engineering contexts.

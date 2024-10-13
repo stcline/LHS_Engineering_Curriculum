@@ -1,10 +1,10 @@
-## Friday: Alternative Energy Car - Batteries
+## Thursday: Optical and Distance Sensors (Continued)
 
-- **Objective**: Evaluate the effectiveness of batteries as an alternative energy source for vehicles (Bloom's Level: Evaluate)
-- **Warm-up**: Discuss the role of batteries in modern electric vehicles and their environmental impact.
+- **Objective**: Implement optical and distance sensors in practical applications (Bloom's Level: Create)
+- **Warm-up**: Review previous day's learning on sensor technology.
 - **Instruction**:
-  - *Lecture*: Overview of battery technology used in vehicles.
-  - *Hands-on Activity*: Experiment with battery-powered car models, comparing performance with other energy sources from previous lessons.
-- **Activity**: Lab activity: Test different types of batteries to determine which provides the best performance for car models under various conditions.
-- **Reflection Question**: What are the trade-offs between using batteries versus other alternative energy sources like solar panels or fuel cells?
-- **CA CTE Standards**: CTE.EC.A.A1.1: Understand renewable energy systems and their applications in engineering contexts.
+  - *Lecture*: Advanced applications of sensors in automotive systems.
+  - *Hands-on Activity*: Integrate sensors into a functional model car system.
+- **Activity**: Develop a project using sensors to automate tasks or improve vehicle functionality.
+- **Reflection Question**: What challenges did you encounter when integrating sensors into your project?
+- **Standards Addressed**: CTE.EC.A.A1.1: Understand renewable energy systems and their applications in engineering contexts.

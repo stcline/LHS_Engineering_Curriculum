@@ -1,10 +1,10 @@
-## Tuesday: Manufacturing Research Presentation
+## Monday: Robotic Inputs and Outputs
 
-- **Objective**: Evaluate and present research findings on manufacturing processes (Bloom's Level: Evaluate)
-- **Warm-up**: Discuss recent advancements in manufacturing technology as a class.
+- **Objective**: Understand the basics of robotic inputs and outputs in manufacturing (Bloom's Level: Understand)
+- **Warm-up**: Discuss the role of robotics in modern manufacturing processes.
 - **Instruction**:
-  - *Lecture*: Overview of key manufacturing processes.
-  - *Hands-on Activity*: Student presentations on manufacturing research projects.
-- **Activity**: Peer review: Students provide feedback on each other's presentations focusing on clarity and content depth.
-- **Reflection Question**: What was one new thing you learned from a peer's presentation today?
-- **CA CTE Standards**: CTE.MPD.C.C3.1: Understand manufacturing processes including casting, forming, joining, and additive manufacturing.
+  - *Lecture*: Introduction to robotic inputs and outputs.
+  - *Hands-on Activity*: Explore basic programming for robotic systems.
+- **Activity**: Program a simple task using robotic inputs and outputs.
+- **Reflection Question**: What was one new thing you learned about robotics today?
+- **Standards Addressed**: CTE.MPD.C.C3.1: Understand manufacturing processes including automation technologies.

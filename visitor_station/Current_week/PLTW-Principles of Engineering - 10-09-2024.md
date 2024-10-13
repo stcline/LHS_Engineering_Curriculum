@@ -1,10 +1,10 @@
-## Thursday & Friday: Simple Machines, Part Two
+## Wednesday: VEX V5 Programming Interface
 
-- **Objective**: Design devices using simple machines to achieve specific tasks (Bloom's Level: Create)
-- **Warm-up** (Thursday): Review key concepts from previous lessons on simple machines.
+- **Objective**: Learn about VEX V5 programming interface for robotics (Bloom's Level: Understand)
+- **Warm-up**: Discuss how programming interfaces simplify robotics control.
 - **Instruction**:
-  - *Lecture* (Thursday): Discuss advanced applications of simple machines.
-  - *Hands-on Activity* (Thursday): Experiment with different configurations of simple machines to achieve specific tasks.
-- **Activity**: Group challenge: Design a device using simple machines that can lift a specified weight with minimal effort.
-- **Reflection Question** (Thursday): How did changing configurations affect the performance of your simple machine device?
-- **CA CTE Standards** (Thursday): CTE.MPD.D.D1.2: Apply mechanical advantage concepts in engineering systems.
+  - *Lecture*: Overview of VEX V5 programming interface.
+  - *Hands-on Activity*: Introduction to basic programming tasks using VEX V5.
+- **Activity**: Program a basic movement sequence using VEX V5 interface.
+- **Reflection Question**: What was the most challenging aspect of using the VEX V5 interface?
+- **Standards Addressed**: CTE.MPD.C.C3.1: Understand manufacturing processes including automation technologies.

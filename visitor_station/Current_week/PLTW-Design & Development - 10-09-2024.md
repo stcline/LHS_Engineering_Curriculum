@@ -1,10 +1,10 @@
-## Thursday: Alternative Energy Car - Fuel Cells
+## Wednesday: Optical and Distance Sensors
 
-- **Objective**: Analyze the use of fuel cells as an alternative energy source for vehicles (Bloom's Level: Analyze)
-- **Warm-up**: Discuss how fuel cells work and their potential benefits over traditional combustion engines.
+- **Objective**: Explore optical and distance sensors as part of automotive technology (Bloom's Level: Apply)
+- **Warm-up**: Discuss how sensors are used in modern vehicles for safety and efficiency.
 - **Instruction**:
-  - *Lecture*: Overview of fuel cell technology used in vehicles.
-  - *Hands-on Activity*: Experiment with fuel cell-powered car models, comparing performance with solar-powered models from previous lessons.
-- **Activity**: Lab activity: Test different types of fuel cells to determine which provides the best performance for car models under various conditions.
-- **Reflection Question**: What are the trade-offs between using fuel cells versus other alternative energy sources like solar panels or batteries?
-- **CA CTE Standards**: CTE.EC.A.A1.1: Understand renewable energy systems and their applications in engineering contexts.
+  - *Lecture*: Introduction to optical and distance sensors.
+  - *Hands-on Activity*: Demonstrate sensor functionality with small models.
+- **Activity**: Test different sensor setups on model cars to understand their impact on navigation.
+- **Reflection Question**: How do sensors enhance vehicle performance and safety?
+- **Standards Addressed**: CTE.EC.A.A1.1: Understand renewable energy systems and their applications in engineering contexts.

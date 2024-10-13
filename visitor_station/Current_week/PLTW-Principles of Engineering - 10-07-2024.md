@@ -1,10 +1,10 @@
-## Tuesday: Pulley IMA and AMA Reflection
+## Monday: Simple Machines, Part Two (Screw)
 
-- **Objective**: Analyze mechanical systems using IMA and AMA calculations (Bloom's Level: Analyze)
-- **Warm-up**: Quick review quiz on IMA and AMA concepts.
+- **Objective**: Understand the application of screws as simple machines (Bloom's Level: Understand)
+- **Warm-up**: Discuss examples of screws used in everyday life.
 - **Instruction**:
-  - *Lecture*: Explain the differences between IMA and AMA.
-  - *Hands-on Activity*: Calculate IMA and AMA for different pulley setups using provided materials.
-- **Activity**: Lab activity measuring forces in a pulley system to calculate IMA and AMA.
-- **Reflection Question**: How do discrepancies between IMA and AMA affect the efficiency of a pulley system?
-- **CA CTE Standards**: CTE.MPD.D.D1.2: Apply mechanical advantage concepts in engineering systems.
+  - *Lecture*: The mechanics of screws and their applications.
+  - *Hands-on Activity*: Experiment with screws to understand their mechanical advantage.
+- **Activity**: Calculate the mechanical advantage of different screw types.
+- **Reflection Question**: How do screws differ from other simple machines in terms of efficiency?
+- **Standards Addressed**: CTE.MPD.D.D1.2: Apply mechanical advantage concepts in engineering systems.

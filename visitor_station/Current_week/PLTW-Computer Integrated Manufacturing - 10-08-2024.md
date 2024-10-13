@@ -1,10 +1,10 @@
-## Wednesday: Flowcharts
+## Tuesday: Robotic Inputs and Outputs (Continued)
 
-- **Objective**: Create flowcharts to visualize and organize manufacturing processes (Bloom's Level: Create)
-- **Warm-up**: Discuss how flowcharts can simplify complex processes in manufacturing.
+- **Objective**: Apply knowledge of robotic inputs and outputs through practical applications (Bloom's Level: Apply)
+- **Warm-up**: Review key concepts from previous day's lesson on robotics.
 - **Instruction**:
-  - *Lecture*: Introduction to flowchart symbols and their uses.
-  - *Hands-on Activity*: Create a flowchart for a simple manufacturing process using software tools.
-- **Activity**: Individual task: Design a flowchart for assembling a product, detailing each step of the process.
-- **Reflection Question**: How can flowcharts improve communication and efficiency in manufacturing?
-- **CA CTE Standards**: CTE.MPD.C.C3.1: Understand manufacturing processes including planning and control systems.
+  - *Lecture*: Practical applications of robotic inputs and outputs.
+  - *Hands-on Activity*: Program a more complex task using robotic inputs and outputs.
+- **Activity**: Refine previous programs to include more sophisticated input/output controls.
+- **Reflection Question**: What improvements did you make to your robotic program today?
+- **Standards Addressed**: CTE.MPD.C.C3.1: Understand manufacturing processes including automation technologies.

@@ -1,10 +1,10 @@
-## Wednesday: Alternative Energy Car - Solar Panels
+## Tuesday: Inputs and Outputs
 
-- **Objective**: Apply knowledge of solar panels as an alternative energy source for vehicles (Bloom's Level: Apply)
-- **Warm-up**: Discuss the benefits and limitations of solar energy in transportation.
+- **Objective**: Explore inputs and outputs as they relate to alternative energy cars (Bloom's Level: Apply)
+- **Warm-up**: Discuss the role of inputs and outputs in vehicle design, especially alternative energy cars.
 - **Instruction**:
-  - *Lecture*: Introduction to solar panel technology and its application in vehicles.
-  - *Hands-on Activity*: Experiment with solar panels to power small car models.
-- **Activity**: Lab activity: Build a simple solar-powered car using provided kits and test its performance under different light conditions.
-- **Reflection Question**: What factors affect the efficiency of solar panels in powering vehicles?
-- **CA CTE Standards**: CTE.EC.A.A1.1: Understand renewable energy systems and their applications in engineering contexts.
+  - *Lecture*: Overview of inputs and outputs in automotive systems.
+  - *Hands-on Activity*: Analyze input/output systems in alternative energy cars.
+- **Activity**: Identify key input/output components in a model car setup.
+- **Reflection Question**: How do inputs and outputs affect the efficiency of alternative energy cars?
+- **Standards Addressed**: CTE.EC.A.A1.1: Understand renewable energy systems and their applications in engineering contexts.

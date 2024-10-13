@@ -1,10 +1,10 @@
-## Wednesday: Onshape Multi-part Studios
+## Tuesday: Onshape - Making the Step
 
-- **Objective**: Create and manipulate multi-part assemblies in CAD software (Bloom's Level: Create)
-- **Warm-up**: Discuss examples of complex assemblies in everyday products.
+- **Objective**: Enhance CAD skills by practicing creating steps in Onshape (Bloom's Level: Apply)
+- **Warm-up**: Review key features of Onshape related to step creation.
 - **Instruction**:
-  - *Lecture*: Introduction to Onshape multi-part studios.
-  - *Hands-on Activity*: Guided tutorial on creating multi-part assemblies in Onshape.
-- **Activity**: Design a simple mechanical assembly using Onshape tools.
-- **Reflection Question**: What challenges did you face while working with multi-part assemblies in Onshape?
-- **CA CTE Standards**: CTE.MPD.D.D1.3: Use CAD software for designing engineering solutions.
+  - *Lecture*: Advanced techniques for creating steps.
+  - *Hands-on Activity*: Practice creating complex step designs in Onshape.
+- **Activity**: Refine a previous design by incorporating advanced step features.
+- **Reflection Question**: What challenges did you face while enhancing your step designs?
+- **Standards Addressed**: Engineering Design Pathway Standards: D1.0, D2.0

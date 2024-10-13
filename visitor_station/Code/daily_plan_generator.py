@@ -4,99 +4,35 @@ from datetime import datetime, timedelta
 # Define the lesson content for each course and day
 lessons = {
     "PLTW-Intro to Engineering": [
-        "## Tuesday: Desk Organizer Design Presentation\n\n"
-        "- **Objective**: Evaluate and present design solutions (Bloom's Level: Evaluate)\n"
-        "- **Warm-up**: Discuss the importance of design iteration. Reflect on personal experiences improving a design.\n"
+        "## Monday: Onshape - Making the Step\n\n"
+        "- **Objective**: Apply CAD skills to create simple mechanical parts (Bloom's Level: Apply)\n"
+        "- **Warm-up**: Discuss how CAD software is used in engineering design.\n"
         "- **Instruction**:\n"
-        "  - *Lecture*: Review key design principles and prototyping.\n"
-        "  - *Hands-on Activity*: Present desk organizer designs and receive peer feedback.\n"
-        "- **Activity**: Peer feedback session using a rubric.\n"
-        "- **Reflection Question**: What was the most valuable piece of feedback you received today, and how will it influence your design?\n"
-        "- **CA CTE Standards**: CTE.MPD.D.D1.1: Understand the design process as a systematic approach to solving engineering problems.",
+        "  - *Lecture*: Introduction to making steps in Onshape.\n"
+        "  - *Hands-on Activity*: Practice creating steps in Onshape.\n"
+        "- **Activity**: Create a simple mechanical part using Onshape's step tool.\n"
+        "- **Reflection Question**: How does using CAD software improve design accuracy?\n"
+        "- **Standards Addressed**: Engineering Design Pathway Standards: D1.0, D2.0",
         
-        "## Wednesday: Onshape Multi-part Studios\n\n"
-        "- **Objective**: Create and manipulate multi-part assemblies in CAD software (Bloom's Level: Create)\n"
-        "- **Warm-up**: Discuss examples of complex assemblies in everyday products.\n"
+        "## Tuesday: Onshape - Making the Step\n\n"
+        "- **Objective**: Enhance CAD skills by practicing creating steps in Onshape (Bloom's Level: Apply)\n"
+        "- **Warm-up**: Review key features of Onshape related to step creation.\n"
         "- **Instruction**:\n"
-        "  - *Lecture*: Introduction to Onshape multi-part studios.\n"
-        "  - *Hands-on Activity*: Guided tutorial on creating multi-part assemblies in Onshape.\n"
-        "- **Activity**: Design a simple mechanical assembly using Onshape tools.\n"
-        "- **Reflection Question**: What challenges did you face while working with multi-part assemblies in Onshape?\n"
-        "- **CA CTE Standards**: CTE.MPD.D.D1.3: Use CAD software for designing engineering solutions.",
-        
-        "## Thursday: Onshape Multi-part Studios (Continued)\n\n"
-        "- **Objective**: Enhance CAD skills by developing complex assemblies (Bloom's Level: Apply)\n"
-        "- **Warm-up**: Discuss the role of assemblies in product design and manufacturing.\n"
-        "- **Instruction**:\n"
-        "  - *Lecture*: Review key features of Onshape multi-part studios.\n"
-        "  - *Hands-on Activity*: Work on a guided project to create a more complex assembly in Onshape.\n"
-        "- **Activity**: Build upon previous work by adding components to an assembly project.\n"
-        "- **Reflection Question**: How does using multi-part studios improve your efficiency in designing complex assemblies?\n"
-        "- **CA CTE Standards**: CTE.MPD.D.D1.3: Use CAD software for designing engineering solutions.",
-        
-        "## Friday: Onshape Multi-part Studios (Finalization)\n\n"
-        "- **Objective**: Finalize and present completed CAD projects (Bloom's Level: Evaluate)\n"
-        "- **Warm-up**: Reflect on the week's learning about multi-part assemblies and discuss any challenges faced.\n"
-        "- **Instruction**:\n"
-        "  - *Lecture*: Recap the week's lessons on Onshape.\n"
-        "  - *Hands-on Activity*: Finalize assembly projects and prepare for presentation.\n"
-        "- **Activity**: Complete and present final assembly projects, highlighting key features and design choices made during the process.\n"
-        "- **Reflection Question**: What was your biggest takeaway from using Onshape this week?\n"
-        "- **CA CTE Standards**: CTE.MPD.D.D1.3: Use CAD software for designing engineering solutions."
-    ],
-    
-    "PLTW-Principles of Engineering": [
-        "## Tuesday: Pulley IMA and AMA Reflection\n\n"
-        "- **Objective**: Analyze mechanical systems using IMA and AMA calculations (Bloom's Level: Analyze)\n"
-        "- **Warm-up**: Quick review quiz on IMA and AMA concepts.\n"
-        "- **Instruction**:\n"
-        "  - *Lecture*: Explain the differences between IMA and AMA.\n"
-        "  - *Hands-on Activity*: Calculate IMA and AMA for different pulley setups using provided materials.\n"
-        "- **Activity**: Lab activity measuring forces in a pulley system to calculate IMA and AMA.\n"
-        "- **Reflection Question**: How do discrepancies between IMA and AMA affect the efficiency of a pulley system?\n"
-        "- **CA CTE Standards**: CTE.MPD.D.D1.2: Apply mechanical advantage concepts in engineering systems.",
-        
-        "## Wednesday: Compound Machines\n\n"
-        "- **Objective**: Identify simple machines within compound machines (Bloom's Level: Analyze)\n"
-        "- **Warm-up**: Brainstorm examples of compound machines found in everyday life.\n"
-        "- **Instruction**:\n"
-        "  - *Lecture*: Explain the concept of compound machines and their applications.\n"
-        "  - *Hands-on Activity*: Identify and analyze compound machines using provided kits.\n"
-        "- **Activity**: Group activity: Disassemble a compound machine model and identify the simple machines within it.\n"
-        "- **Reflection Question**: What advantages do compound machines offer over simple machines?\n"
-        "- **CA CTE Standards**: CTE.MPD.D.D1.2: Apply mechanical advantage concepts in engineering systems.",
-        
-        "## Thursday & Friday: Simple Machines, Part Two\n\n"
-        "- **Objective**: Design devices using simple machines to achieve specific tasks (Bloom's Level: Create)\n"
-        "- **Warm-up** (Thursday): Review key concepts from previous lessons on simple machines.\n"
-        "- **Instruction**:\n"
-        "  - *Lecture* (Thursday): Discuss advanced applications of simple machines.\n"
-        "  - *Hands-on Activity* (Thursday): Experiment with different configurations of simple machines to achieve specific tasks.\n"
-        "- **Activity**: Group challenge: Design a device using simple machines that can lift a specified weight with minimal effort.\n"
-        "- **Reflection Question** (Thursday): How did changing configurations affect the performance of your simple machine device?\n"
-        "- **CA CTE Standards** (Thursday): CTE.MPD.D.D1.2: Apply mechanical advantage concepts in engineering systems."
-    ],
-    
-    "PLTW-Design & Development": [
-        "## Tuesday: Electronics Unit Exam\n\n"
-        "- **Objective**: Demonstrate understanding of electronic components through assessment (Bloom's Level: Understand)\n"
-        "- **Warm-up**: Review key concepts from the electronics unit with a group discussion.\n"
-        "- **Instruction**:\n"
-        "  - *Lecture*: Recap major topics covered in the electronics unit.\n"
-        "  - *Hands-on Activity*: Exam preparation through practice questions.\n"
-        "- **Activity**: Electronics Unit Exam: Students complete the exam individually.\n"
-        "- **Reflection Question**: Which topic in this unit did you find most challenging, and why?\n"
-        "- **CA CTE Standards**: CTE.EC.A.A1.1: Understand electronic systems and their applications in engineering contexts.",
+        "  - *Lecture*: Advanced techniques for creating steps.\n"
+        "  - *Hands-on Activity*: Practice creating complex step designs in Onshape.\n"
+        "- **Activity**: Refine a previous design by incorporating advanced step features.\n"
+        "- **Reflection Question**: What challenges did you face while enhancing your step designs?\n"
+        "- **Standards Addressed**: Engineering Design Pathway Standards: D1.0, D2.0",
         
         "## Wednesday: Alternative Energy Car - Solar Panels\n\n"
-        "- **Objective**: Apply knowledge of solar panels as an alternative energy source for vehicles (Bloom's Level: Apply)\n"
+        "- **Objective**: Explore solar panels as an alternative energy source for vehicles (Bloom's Level: Apply)\n"
         "- **Warm-up**: Discuss the benefits and limitations of solar energy in transportation.\n"
         "- **Instruction**:\n"
         "  - *Lecture*: Introduction to solar panel technology and its application in vehicles.\n"
         "  - *Hands-on Activity*: Experiment with solar panels to power small car models.\n"
-        "- **Activity**: Lab activity: Build a simple solar-powered car using provided kits and test its performance under different light conditions.\n"
+        "- **Activity**: Build a simple solar-powered car using provided kits and test its performance under different light conditions.\n"
         "- **Reflection Question**: What factors affect the efficiency of solar panels in powering vehicles?\n"
-        "- **CA CTE Standards**: CTE.EC.A.A1.1: Understand renewable energy systems and their applications in engineering contexts.",
+        "- **Standards Addressed**: CTE.EC.A.A1.1",
         
         "## Thursday: Alternative Energy Car - Fuel Cells\n\n"
         "- **Objective**: Analyze the use of fuel cells as an alternative energy source for vehicles (Bloom's Level: Analyze)\n"
@@ -104,9 +40,9 @@ lessons = {
         "- **Instruction**:\n"
         "  - *Lecture*: Overview of fuel cell technology used in vehicles.\n"
         "  - *Hands-on Activity*: Experiment with fuel cell-powered car models, comparing performance with solar-powered models from previous lessons.\n"
-        "- **Activity**: Lab activity: Test different types of fuel cells to determine which provides the best performance for car models under various conditions.\n"
+        "- **Activity**: Test different types of fuel cells to determine which provides the best performance for car models under various conditions.\n"
         "- **Reflection Question**: What are the trade-offs between using fuel cells versus other alternative energy sources like solar panels or batteries?\n"
-        "- **CA CTE Standards**: CTE.EC.A.A1.1: Understand renewable energy systems and their applications in engineering contexts.",
+        "- **Standards Addressed**: CTE.EC.A.A1.1",
         
         "## Friday: Alternative Energy Car - Batteries\n\n"
         "- **Objective**: Evaluate the effectiveness of batteries as an alternative energy source for vehicles (Bloom's Level: Evaluate)\n"
@@ -114,50 +50,165 @@ lessons = {
         "- **Instruction**:\n"
         "  - *Lecture*: Overview of battery technology used in vehicles.\n"
         "  - *Hands-on Activity*: Experiment with battery-powered car models, comparing performance with other energy sources from previous lessons.\n"
-        "- **Activity**: Lab activity: Test different types of batteries to determine which provides the best performance for car models under various conditions.\n"
+        "- **Activity**: Test different types of batteries to determine which provides the best performance for car models under various conditions.\n"
         "- **Reflection Question**: What are the trade-offs between using batteries versus other alternative energy sources like solar panels or fuel cells?\n"
-        "- **CA CTE Standards**: CTE.EC.A.A1.1: Understand renewable energy systems and their applications in engineering contexts."
+        "- **Standards Addressed**: CTE.EC.A.A1.1",
     ],
     
-    "PLTW-Computer Integrated Manufacturing": [
-        "## Tuesday: Manufacturing Research Presentation\n\n"
-        "- **Objective**: Evaluate and present research findings on manufacturing processes (Bloom's Level: Evaluate)\n"
-        "- **Warm-up**: Discuss recent advancements in manufacturing technology as a class.\n"
+    "PLTW-Principles of Engineering": [
+        "## Monday: Simple Machines, Part Two (Screw)\n\n"
+        "- **Objective**: Understand the application of screws as simple machines (Bloom's Level: Understand)\n"
+        "- **Warm-up**: Discuss examples of screws used in everyday life.\n"
         "- **Instruction**:\n"
-        "  - *Lecture*: Overview of key manufacturing processes.\n"
-        "  - *Hands-on Activity*: Student presentations on manufacturing research projects.\n"
-        "- **Activity**: Peer review: Students provide feedback on each other's presentations focusing on clarity and content depth.\n"
-        "- **Reflection Question**: What was one new thing you learned from a peer's presentation today?\n"
-        "- **CA CTE Standards**: CTE.MPD.C.C3.1: Understand manufacturing processes including casting, forming, joining, and additive manufacturing.",
+        "  - *Lecture*: The mechanics of screws and their applications.\n"
+        "  - *Hands-on Activity*: Experiment with screws to understand their mechanical advantage.\n"
+        "- **Activity**: Calculate the mechanical advantage of different screw types.\n"
+        "- **Reflection Question**: How do screws differ from other simple machines in terms of efficiency?\n"
+        "- **Standards Addressed**: CTE.MPD.D.D1.2: Apply mechanical advantage concepts in engineering systems.",
         
-        "## Wednesday: Flowcharts\n\n"
-        "- **Objective**: Create flowcharts to visualize and organize manufacturing processes (Bloom's Level: Create)\n"
-        "- **Warm-up**: Discuss how flowcharts can simplify complex processes in manufacturing.\n"
+        "## Tuesday: Practice Quiz - Simple Machines\n\n"
+        "- **Objective**: Reinforce learning through a practice quiz on simple machines (Bloom's Level: Apply)\n"
+        "- **Warm-up**: Quick review quiz on simple machine concepts covered so far.\n"
         "- **Instruction**:\n"
-        "  - *Lecture*: Introduction to flowchart symbols and their uses.\n"
-        "  - *Hands-on Activity*: Create a flowchart for a simple manufacturing process using software tools.\n"
-        "- **Activity**: Individual task: Design a flowchart for assembling a product, detailing each step of the process.\n"
-        "- **Reflection Question**: How can flowcharts improve communication and efficiency in manufacturing?\n"
-        "- **CA CTE Standards**: CTE.MPD.C.C3.1: Understand manufacturing processes including planning and control systems.",
+        "  - *Lecture*: Review key concepts related to simple machines.\n"
+        "  - *Hands-on Activity*: Take a practice quiz on simple machines.\n"
+        "- **Activity**: Discuss answers and clarify any misconceptions from the quiz.\n"
+        "- **Reflection Question**: Which simple machine concept do you find most difficult, and why?\n"
+        "- **Standards Addressed**: CTE.MPD.D.D1.2: Apply mechanical advantage concepts in engineering systems.",
         
-        "## Thursday & Friday: Robotic Inputs and Outputs\n\n"
-        "- **Thursday Objective**: Apply programming skills to control robotic inputs/outputs (Bloom's Level: Apply)\n"
-        "- **Warm-up (Thursday)**: Discuss how robotics is transforming modern manufacturing processes.\n"
-        "- **Instruction (Thursday)**:\n"
-        "  - *Lecture*: Overview of robotic inputs/outputs and basic programming concepts.\n"
-        "  - *Hands-on Activity*: Program a simple robotic task using provided software tools.\n"
-        "- **Activity (Thursday)**: Individual task: Write a program that controls robotic inputs/outputs to perform a specific task.\n"
-        "- **Reflection Question (Thursday)**: What challenges did you encounter while programming robotic tasks, and how did you overcome them?\n"
+        "## Wednesday: VEX V5 Programming Interface\n\n"
+        "- **Objective**: Learn about VEX V5 programming interface for robotics (Bloom's Level: Understand)\n"
+        "- **Warm-up**: Discuss how programming interfaces simplify robotics control.\n"
+        "- **Instruction**:\n"
+        "  - *Lecture*: Overview of VEX V5 programming interface.\n"
+        "  - *Hands-on Activity*: Introduction to basic programming tasks using VEX V5.\n"
+        "- **Activity**: Program a basic movement sequence using VEX V5 interface.\n"
+        "- **Reflection Question**: What was the most challenging aspect of using the VEX V5 interface?\n"
+        "- **Standards Addressed**: CTE.MPD.C.C3.1: Understand manufacturing processes including automation technologies.",
         
-        "- **Friday Objective**: Enhance robotic programming to improve efficiency (Bloom's Level: Analyze)\n"
-        "- **Warm-up (Friday)**: Reflect on previous day's programming challenges and successes.\n"
-        "- **Instruction (Friday)**:\n"
-        "  - *Lecture*: Advanced programming techniques for robotic inputs/outputs.\n"
-        "  - *Hands-on Activity*: Enhance the previous day's program with additional features or complexity.\n"
-        "- **Activity (Friday)**: Continue developing robotic programs, focusing on improving efficiency and functionality.\n"
-        "- **Reflection Question (Friday)**: How can advanced programming techniques improve the functionality of robotic systems in manufacturing?\n"
+        "## Thursday: Optical and Distance Sensors\n\n"
+        "- **Objective**: Explore optical and distance sensors used in engineering applications (Bloom's Level: Apply)\n"
+        "- **Warm-up**: Discuss how sensors are used to enhance precision in engineering systems.\n"
+        "- **Instruction**:\n"
+        "  - *Lecture*: Overview of optical and distance sensors and their applications.\n"
+        "  - *Hands-on Activity*: Experiment with sensors to understand their functionality in different setups.\n"
+        "- **Activity**: Implement a sensor-based system to measure distance or detect objects.\n"
+        "- **Reflection Question**: How do optical and distance sensors improve the accuracy of engineering systems?\n"
+        "- **Standards Addressed**: CTE.MPD.C.C3.1: Understand manufacturing processes including automation technologies.",
+        
+        "## Friday: Advanced Robotic Programming\n\n"
+        "- **Objective**: Implement advanced programming techniques for robotic systems (Bloom's Level: Analyze)\n"
+        "- **Warm-up**: Reflect on previous day's challenges with sensor integration.\n"
+        "- **Instruction**:\n"
+        "  - *Lecture*: Advanced programming techniques for integrating sensors with robotic systems.\n"
+        "  - *Hands-on Activity*: Enhance robotic programs by incorporating sensor feedback for improved functionality.\n"
+        "- **Activity**: Develop a program that uses sensor data to make autonomous decisions in a robotic system.\n"
+        "- **Reflection Question**: How can integrating sensors with robotics enhance system performance?\n"
+        "- **Standards Addressed**: CTE.MPD.C.C3.1: Understand manufacturing processes including automation technologies."
+    ],
+    
+    "PLTW-Design & Development": [
+        "## Monday: Review Unit Exam\n\n"
+        "- **Objective**: Prepare students for electronics unit exam through review activities (Bloom's Level: Understand)\n"
+        "- **Warm-up**: Review key concepts from the electronics unit with a group discussion.\n"
+        "- **Instruction**:\n"
+        "  - *Lecture*: Recap major topics covered in the electronics unit.\n"
+        "  - *Hands-on Activity*: Exam preparation through practice questions.\n"
+        "- **Activity**: Review session focusing on circuit analysis and electronic components.\n"
+        "- **Reflection Question**: Which topic in this unit did you find most challenging, and why?\n"
+        "- **Standards Addressed**: CTE.EC.A.A1.1: Understand electronic systems and their applications in engineering contexts.",
+        
+        "## Tuesday: Inputs and Outputs\n\n"
+        "- **Objective**: Explore inputs and outputs as they relate to alternative energy cars (Bloom's Level: Apply)\n"
+        "- **Warm-up**: Discuss the role of inputs and outputs in vehicle design, especially alternative energy cars.\n"
+        "- **Instruction**:\n"
+        "  - *Lecture*: Overview of inputs and outputs in automotive systems.\n"
+        "  - *Hands-on Activity*: Analyze input/output systems in alternative energy cars.\n"
+        "- **Activity**: Identify key input/output components in a model car setup.\n"
+        "- **Reflection Question**: How do inputs and outputs affect the efficiency of alternative energy cars?\n"
+        "- **Standards Addressed**: CTE.EC.A.A1.1: Understand renewable energy systems and their applications in engineering contexts.",
+        
+        "## Wednesday: Optical and Distance Sensors\n\n"
+        "- **Objective**: Explore optical and distance sensors as part of automotive technology (Bloom's Level: Apply)\n"
+        "- **Warm-up**: Discuss how sensors are used in modern vehicles for safety and efficiency.\n"
+        "- **Instruction**:\n"
+        "  - *Lecture*: Introduction to optical and distance sensors.\n"
+        "  - *Hands-on Activity*: Demonstrate sensor functionality with small models.\n"
+        "- **Activity**: Test different sensor setups on model cars to understand their impact on navigation.\n"
+        "- **Reflection Question**: How do sensors enhance vehicle performance and safety?\n"
+        "- **Standards Addressed**: CTE.EC.A.A1.1: Understand renewable energy systems and their applications in engineering contexts.",
+        
+        "## Thursday: Optical and Distance Sensors (Continued)\n\n"
+        "- **Objective**: Implement optical and distance sensors in practical applications (Bloom's Level: Create)\n"
+        "- **Warm-up**: Review previous day's learning on sensor technology.\n"
+        "- **Instruction**:\n"
+        "  - *Lecture*: Advanced applications of sensors in automotive systems.\n"
+        "  - *Hands-on Activity*: Integrate sensors into a functional model car system.\n"
+        "- **Activity**: Develop a project using sensors to automate tasks or improve vehicle functionality.\n"
+        "- **Reflection Question**: What challenges did you encounter when integrating sensors into your project?\n"
+        "- **Standards Addressed**: CTE.EC.A.A1.1: Understand renewable energy systems and their applications in engineering contexts.",
+        
+        "## Friday: Advanced Sensor Applications\n\n"
+        "- **Objective**: Evaluate the effectiveness of sensor integration in automotive systems (Bloom's Level: Evaluate)\n"
+        "- **Warm-up**: Discuss real-world examples of sensor applications in vehicles.\n"
+        "- **Instruction**:\n"
+        "  - *Lecture*: Case studies on advanced sensor applications in modern vehicles.\n"
+        "  - *Hands-on Activity*: Analyze case studies to identify successful sensor integration strategies.\n"
+        "- **Activity**: Present findings on how sensors can be optimized for better vehicle performance.\n"
+        "- **Reflection Question**: How can sensor technology be further developed to enhance automotive safety and efficiency?\n"
+        "- **Standards Addressed**: CTE.EC.A.A1.1: Understand renewable energy systems and their applications in engineering contexts."
+    ],
 
-        "- **CA CTE Standards**: CTE.MPD.C.C3.1: Understand manufacturing processes including automation technologies."
+    "PLTW-Computer Integrated Manufacturing": [
+        "## Monday: Robotic Inputs and Outputs\n\n"
+        "- **Objective**: Understand the basics of robotic inputs and outputs in manufacturing (Bloom's Level: Understand)\n"
+        "- **Warm-up**: Discuss the role of robotics in modern manufacturing processes.\n"
+        "- **Instruction**:\n"
+        "  - *Lecture*: Introduction to robotic inputs and outputs.\n"
+        "  - *Hands-on Activity*: Explore basic programming for robotic systems.\n"
+        "- **Activity**: Program a simple task using robotic inputs and outputs.\n"
+        "- **Reflection Question**: What was one new thing you learned about robotics today?\n"
+        "- **Standards Addressed**: CTE.MPD.C.C3.1: Understand manufacturing processes including automation technologies.",
+        
+        "## Tuesday: Robotic Inputs and Outputs (Continued)\n\n"
+        "- **Objective**: Apply knowledge of robotic inputs and outputs through practical applications (Bloom's Level: Apply)\n"
+        "- **Warm-up**: Review key concepts from previous day's lesson on robotics.\n"
+        "- **Instruction**:\n"
+        "  - *Lecture*: Practical applications of robotic inputs and outputs.\n"
+        "  - *Hands-on Activity*: Program a more complex task using robotic inputs and outputs.\n"
+        "- **Activity**: Refine previous programs to include more sophisticated input/output controls.\n"
+        "- **Reflection Question**: What improvements did you make to your robotic program today?\n"
+        "- **Standards Addressed**: CTE.MPD.C.C3.1: Understand manufacturing processes including automation technologies.",
+        
+        "## Wednesday: Optical and Distance Sensors\n\n"
+        "- **Objective**: Explore optical and distance sensors used in manufacturing automation (Bloom's Level: Apply)\n"
+        "- **Warm-up**: Discuss the role of sensors in improving manufacturing precision.\n"
+        "- **Instruction**:\n"
+        "  - *Lecture*: Overview of optical and distance sensors.\n"
+        "  - *Hands-on Activity*: Explore sensor integration into manufacturing systems.\n"
+        "- **Activity**: Implement a sensor-based control system for a manufacturing task.\n"
+        "- **Reflection Question**: What advantages do sensors provide in automated manufacturing processes?\n"
+        "- **Standards Addressed**: CTE.MPD.C.C3.1: Understand manufacturing processes including automation technologies.",
+
+        "## Thursday: Optical and Distance Sensors\n\n"
+        "- **Objective**: Implement optical and distance sensors in practical manufacturing applications (Bloom's Level: Create)\n"
+        "- **Warm-up**: Review previous day's learning on sensor technology.\n"
+        "- **Instruction**:\n"
+        "  - *Lecture*: Advanced applications of sensors in manufacturing systems.\n"
+        "  - *Hands-on Activity*: Integrate sensors into a functional manufacturing system.\n"
+        "- **Activity**: Develop a project using sensors to automate tasks or improve system functionality.\n"
+        "- **Reflection Question**: What challenges did you encounter when integrating sensors into your project?\n"
+        "- **Standards Addressed**: CTE.MPD.C.C3.1: Understand manufacturing processes including automation technologies.",
+        
+        "## Friday: Advanced Sensor Applications\n\n"
+        "- **Objective**: Evaluate the effectiveness of sensor integration in manufacturing systems (Bloom's Level: Evaluate)\n"
+        "- **Warm-up**: Discuss real-world examples of sensor applications in manufacturing.\n"
+        "- **Instruction**:\n"
+        "  - *Lecture*: Case studies on advanced sensor applications in modern manufacturing systems.\n"
+        "  - *Hands-on Activity*: Analyze case studies to identify successful sensor integration strategies.\n"
+        "- **Activity**: Present findings on how sensors can be optimized for better system performance.\n"
+        "- **Reflection Question**: How can sensor technology be further developed to enhance manufacturing efficiency?\n"
+        "- **Standards Addressed**: CTE.MPD.C.C3.1: Understand manufacturing processes including automation technologies."
     ]
 }
 
