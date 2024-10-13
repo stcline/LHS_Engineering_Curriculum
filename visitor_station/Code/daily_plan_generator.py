@@ -213,7 +213,7 @@ lessons = {
 }
 
 # Define the start date
-start_date = datetime(2024, 10, 7)
+start_date = datetime(2024, 10, 14)
 
 # Create markdown files for each lesson
 for course, lesson_list in lessons.items():
