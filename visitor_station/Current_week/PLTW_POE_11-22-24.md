@@ -3,17 +3,17 @@
 ## Objective
 Students will complete the tug-of-war competition and reflect on their engineering design process.
 
-## Warm-up (10 minutes)
+## Warm-up (5 minutes)
 - Write down one strategy you observed from another team that you found interesting or effective.
 
-## Instruction (10 minutes)
+## Instruction (5 minutes)
 - Brief discussion on the importance of learning from both success and failure in engineering
 
-## Hands-on Activity (70 minutes)
+## Hands-on Activity (45 minutes)
 - Complete the remaining rounds of the tug-of-war competition
 - Announce winners and recognize innovative designs
 
-## Reflection (10 minutes)
+## Reflection (5 minutes)
 - What was the most valuable lesson you learned from this project, and how might you apply it to future engineering challenges?
 
 ## CA CTE Engineering Standards
