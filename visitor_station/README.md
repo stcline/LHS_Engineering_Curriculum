@@ -9,4 +9,4 @@
 - Period 4: PLTW Design and Development**
 - Period 6: PLTW Computer Integrated Manufacturing
  
-You can find detailed lessons by course in the "current week" folder.  The files above are for the current week.
+You can find detailed lessons by course in the "Today" folder.  
