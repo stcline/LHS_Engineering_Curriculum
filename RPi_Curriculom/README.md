@@ -4,8 +4,9 @@
 
 1. What is the Raspberry Pi?
 2. Connecting via SSH (Both through the Chrome Extension and VS Code)
-3. BASH Overview
-4. Git and GitHub with the Pi
-5. Running Python
-6. GPIO
-7. Project to build for fun
+   - [VS Code](https://code.visualstudio.com/docs/remote/ssh)
+4. BASH Overview
+5. Git and GitHub with the Pi
+6. Running Python
+7. GPIO
+8. Project to build for fun
