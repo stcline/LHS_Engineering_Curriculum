@@ -8,3 +8,4 @@
 4. Git and GitHub with the Pi
 5. Running Python
 6. GPIO
+7. Project to build for fun
